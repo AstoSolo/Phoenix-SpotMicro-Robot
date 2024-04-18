@@ -1,2 +1,2 @@
 # Phoenix-SpotMicro-Robot
-Кастомная версия на базе SpotMicro https://gitlab.com/public-open-source/spotmicroai
+Моя кастомная версия робота на базе робота вдохновлённого Boston Dynamics Spot - SpotMicro https://gitlab.com/public-open-source/spotmicroai
